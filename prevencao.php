@@ -58,66 +58,84 @@
         <div class="row animated slideInRight">
             <div class="col-md-8 blog-main">
                 <h3 class="pb-4 mb-4 font-italic border-bottom">
-                    From the Firehose
+                    Entenda a diferença entre vírus e bactérias
                 </h3>
 
                 <div class="blog-post">
-                    <h2 class="blog-post-title">Sample blog post</h2>
-                    <p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
+                    <h2 class="blog-post-title">Explicações sobre Vírus e Bácterias</h2>
+                    <p class="blog-post-meta">1 de Maio 2020</p>
 
-                    <p>This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>
-                    <hr>
-                    <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-                    <blockquote>
-                        <p>Curabitur blandit tempus porttitor. <strong>Nullam quis risus eget urna mollis</strong> ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    </blockquote>
-                    <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-                    <h2>Heading</h2>
-                    <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-                    <h3>Sub-heading</h3>
-                    <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                    <pre><code>Example code block</code></pre>
-                    <p>Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-                    <h3>Sub-heading</h3>
-                    <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                    <ul>
-                        <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
-                        <li>Donec id elit non mi porta gravida at eget metus.</li>
-                        <li>Nulla vitae elit libero, a pharetra augue.</li>
-                    </ul>
-                    <p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
-                    <ol>
-                        <li>Vestibulum id ligula porta felis euismod semper.</li>
-                        <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
-                        <li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
-                    </ol>
-                    <p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
+                    <p style="text-align: justify">
+                        Os dois são invisíveis a olho nu, se multiplicam rapidamente em um curto período de tempo e podem causar doenças. Mas essas são as poucas características que bactérias e vírus têm em comum.
+                        Bactérias são organismos compostos por uma única célula, que possui tudo que elas precisam para viver: genoma e estruturas celulares que produzem proteínas, abastecendo-as com energia.
+                        organismos possuem um metabolismo próprio e se multiplicam ao se dividir.
+                    </p>
+                    <p style="text-align: justify">
+                        bactérias nem sempre são prejudiciais: algumas são vitais para a saúde humana, como as que compõem a flora intestinal e auxiliam na digestão.
+                        Tuberculose, cólera, tétano e difteria são algumas das doenças causadas por bactérias.
+                        Vírus, por outro lado, não são células, mas partículas infecciosas.
+                    </p>
+
+                    <p style="text-align: justify">
+                        Para muitos cientistas, os vírus nem são considerados seres vivos. Eles podem se multiplicar somente com ajuda externa.
+                        Ao infiltrar seu material genético em células de outros seres vivos, eles as reprogramam para que elas produzam vírus até arrebentar, liberando assim essas partículas infecciosas.
+                        Cada vírus possui uma célula hospedeira específica. Alguns atacam somente plantas, outros animais e humanos. Há também vírus que atacam apenas bactérias e fungos.
+                        Aids, hepatite, gripe, dengue, catapora e sarampo são algumas das doenças causadas por vírus.
+                    </p>
+
+                    <p style="text-align: justify">
+                        Os vírus infecciosos são bem menores do que bactérias.
+                        Enquanto elas possuem na sua maioria um tamanho de 0,001 milímetro, os vírus chegam
+                        a no máximo um centésimo dessa medida.
+                    </p>
+                </div><!-- /.blog-post -->
+
+                <div class=" blog-post">
+                    <h2 class="blog-post-title">Medicamento e vacinas</h2>
+                    <p class="blog-post-meta">1 de Maio 2020</p>
+
+                    <p style="text-align: justify">
+                        Antibióticos agem somente contra bactérias. Como vírus não vivem, não é possível matá-los. Contra eles há somente antivirais, que inibem a multiplicação dessas partículas, por exemplo, ao impedir que eles alcancem as células hospedeiras.
+                        Mesmo assim, os médicos costumam prescrever antibióticos também para infecções virais, já que os vírus enfraquecem o sistema imunológico, possibilitando o ataque de bactérias. O antibiótico é prescrito para evitar esse ataque.
+                        Tanto para bactérias como para vírus, é possível desenvolver vacinas.</p>
+                    <p style="text-align: justify">
+                        Antibióticos agem somente contra bactérias. Como vírus não vivem, não é possível matá-los. Contra eles há somente antivirais, que inibem a multiplicação dessas partículas, por exemplo, ao impedir que eles alcancem as células hospedeiras.
+                        Mesmo assim, os médicos costumam prescrever antibióticos também para infecções virais, já que os vírus enfraquecem o sistema imunológico, possibilitando o ataque de bactérias. O antibiótico é prescrito para evitar esse ataque.
+                        Tanto para bactérias como para vírus, é possível desenvolver vacinas.
+                    </p>
                 </div><!-- /.blog-post -->
 
                 <div class="blog-post">
-                    <h2 class="blog-post-title">Another blog post</h2>
-                    <p class="blog-post-meta">December 23, 2013 by <a href="#">Jacob</a></p>
+                    <h2 class="blog-post-title">Os vírus e bactérias que vão ameaçar o Brasil em 2020</h2>
+                    <p class="blog-post-meta">1 de Maio 2020</p>
 
-                    <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-                    <blockquote>
-                        <p>Curabitur blandit tempus porttitor. <strong>Nullam quis risus eget urna mollis</strong> ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                    </blockquote>
-                    <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-                    <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-                </div><!-- /.blog-post -->
+                    <p style="text-align: justify">
+                        Parece até brincadeira, mas todo ano surge algum microrganismo como uma nova ameaça à saúde da população brasileira. É flavivírus, superbactéria… Não é à toa que muita gente surge com essas ideias conspirativas, afinal, esses surtos colaboram para este tipo de pensamento e, como dizem, notícias ruins sempre circulam mais rápido.
+                    </p>
 
-                <div class="blog-post">
-                    <h2 class="blog-post-title">New feature</h2>
-                    <p class="blog-post-meta">December 14, 2013 by <a href="#">Chris</a></p>
+                    <p style="text-align: justify">
+                        Por isso, além das proteções devidas como: ter suas vacinas em dia, inclusive as anuais, como a da gripe por exemplo; lavar muito bem as mãos antes de se alimentar, quando chega da rua ou usa transporte público; e, se possível, usar desinfetantes como álcool em gel, são excelentes medidas para se manter saudável. Fora, é claro, ter uma alimentação regrada, consultar-se frequentemente com especialistas e praticar exercícios físicos.
+                    </p>
 
-                    <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                    <ul>
-                        <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
-                        <li>Donec id elit non mi porta gravida at eget metus.</li>
-                        <li>Nulla vitae elit libero, a pharetra augue.</li>
-                    </ul>
-                    <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-                    <p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
+                    <p style="text-align: justify">
+                        Tudo isso faz bem pro corpo e alma! Mas, somando-se ao que foi dito, é importante também se manter informado sobre o assunto. Dessa forma, aqui vai a famigerada pergunta:
+                    </p>
+
+                    <p style="text-align: justify">
+                        DÁ PRA PREVER QUAIS MICRORGANISMOS ORGANIZARÃO “A FESTA DAS INFECÇÕES” NO BRASIL EM 2020?
+                        Bom, cabalisticamente é claro que não dá. Mas é possível sim cruzar informações de alguns surtos isolados que acontecem em países próximos aos nossos, ou com climas e condições geográficas parecidas, o que favoreceria a dispersão dos mesmos agentes infecciosos em solos brasileiros.
+                    </p>
+
+                    <p style="text-align: justify">
+                        É importante lembrar que tanto vírus quanto bactérias, e também outros microrganismos causadores de doenças, tem um potencial de mutação muito grande, o que colabora para a seleção das espécies mais adaptadas à região. É por isso que, por exemplo, um vírus que antes era transmitido apenas por um tipo de mosquito pode, hoje, ser transmitido por outro também, colocando a população em um novo risco.
+                    </p>
+
+                    <p style="text-align: justify">
+                        Esse alto potencial de mutação não tem nada a ver com algo sobrenatural não, está ligado às altas taxas de reprodução e infecção dessas criaturas, que além de terem materiais genéticos pequenos e de simples arranjo, não possuem certas moléculas reparadoras durante a multiplicação das estruturas. Assim, é bem mais provável que surjam mutações significativas nesses microrganismos e que essas passem a diante, do que isso aconteça em organismos mais complexos.
+                    </p>
+
+                    <a class="btn btn-outline-success" href="http://www.imunovidavacinas.com.br/index.php/2019/12/18/virus-e-bacterias-que-vao-ameacar-o-brasil-em-2020/" role="button">Continua...</a>
+
                 </div><!-- /.blog-post -->
 
             </div><!-- /.blog-main -->
@@ -125,12 +143,17 @@
 
             <aside class="col-md-4 blog-sidebar">
                 <div class="p-4 mb-3 bg-light rounded">
-                    <h4 class="font-italic">About</h4>
-                    <p class="mb-0">Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+                    <h4 class="font-italic">Arquivos "Vírus e Bácterias e entre outras..."</h4>
+                    <p class="mb-0">
+                        A OMS classifica doença como a ausência de saúde e disponibiliza para a sociedade a Classificação Estatística Internacional de Doenças e Problemas Relacionados à Saúde, designada pela sigla CID. No CID temos acesso à classificação das doenças e à grande variedade de sinais, sintomas, aspectos normais, queixas, circunstâncias sociais e causas externas para ferimentos e doenças.
+                    </p>
+                    <p>
+                        Em <em>Arquivos</em> você pode ver alguns dos exemplos citados pela OMS(Organização Mundial da Saúde).
+                    </p>
                 </div>
 
                 <div class="p-4">
-                    <h4 class="font-italic">Archives</h4>
+                    <h4 class="font-italic">Arquivos</h4>
                     <ol class="list-unstyled mb-0">
                         <li><a href="http://bvsms.saude.gov.br/bvs/publicacoes/doencas_infecciosas_parasitaria_guia_bolso.pdf">DOENÇAS INFECCIOSAS E PARASITÁRIAS</a></li>
                         <li><a href="https://www.who.int/chp/chronic_disease_report/part1_port.pdf">PREVENÇÃO DE DOENÇAS CRÔNICAS</a></li>
@@ -151,14 +174,19 @@
 
 
         <h3 class="border-bottom p-2 mb-5 container">Formulário</h3>
-        
+
         <form id="my-form" action="https://formspree.io/xgenwgvp" method="POST">
+
             <label>Email:</label>
-            <input type="email" class="form-control" name="email" style="width: 1150px" required/>
+            <input type="email" class="form-control" name="email" style="width: 1150px" required />
+
             <label>Message:</label>
-            <input type="text" class="form-control" name="message" style="width: 1150px" required/>
+            <input type="text" class="form-control" name="message" style="width: 1150px" required />
+
             <br>
+
             <button class="btn btn-success" id="my-form-button">Enviar</button>
+            <button onclick="ajuda()" id="popover" type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="top" data-content="Todos os espaços são obrigatório para oreencher, sem isso você não pode enviar a sua mensagem. Obrigado pela compreensão e ajuda. E, os sempre estamos em busca de novos conteúdos.">Ajuda!</button>
             <p id="my-form-status"></p>
         </form>
 
@@ -231,6 +259,13 @@
     <!--Rodapé-->
 
     <!--Scripts-->
+
+    <script type="text/javascript">
+        function ajuda() {
+            $('#popover').popover('show');
+        }
+    </script>
+
     <script src="js/form.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

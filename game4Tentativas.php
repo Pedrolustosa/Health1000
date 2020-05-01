@@ -62,14 +62,19 @@
 
             <div id="tagPalavra"></div>
 
-            <input type="text" maxlength="1" id="tagAdivinhaLetra" placeholder="digite a letra aqui" />
-            <button type="button" class="btn btn-outline-success" id="tagBtVerificaLetra">Enviar Letra</button>
+            <input type="text" class="form-control" maxlength="1" id="tagAdivinhaLetra" placeholder="Escolha uma LETRA e digite aqui. Boa Sorte!" style="width: 350px" required/>
             <br>
-            <br><button type="button" class="btn btn-secondary" style="height: 35px">
+            
+            <button type="button" class="btn btn-outline-success" id="tagBtVerificaLetra">Enviar Letra</button>
+            <button type="button" class="btn btn-outline-success" id="tagBtSorteiaPalavra">Sortear Nova Palavra</button>
+            <button type="button" class="btn btn-secondary" style="height: 35px">
                 <p class="custonP1">Total de erros:<span class="badge badge-pill badge-light" id="tagTotErros"></span> / 4</p>
             </button>
+            <br>
+            <br>
+            
 
-            <button type="button" class="btn btn-outline-success" id="tagBtSorteiaPalavra">Sortear Nova Palavra</button>
+            
         </section>
 
     </main>
