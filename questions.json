@@ -1,0 +1,90 @@
+[
+    {
+        "question": "O que significa Vírus (em latim)?",
+        "choice1": "Veneno",
+        "choice2": "Virose",
+        "choice3": "Contagio",
+        "choice4": "Sapinho",
+        "answer": 1
+    },
+    {
+        "question": "Dentre os grupos de doenças citados abaixo, marque a alternativa na qual todas elas sejam causadas por vírus",
+        "choice1": "Dengue, herpes, caxumba e mononucleose.",
+        "choice2": "Hanseníase, febre amarela, hepatite, varíola.",
+        "choice3": "Dengue, febre amarela, toxoplasmose, gripe e AIDS.",
+        "choice4": "Condiloma acuminado, HIV, gonorreia e herpes.",
+        "answer": 1
+    },
+    {
+        "question": "Assinale a doença que NÃO é causada por vírus:",
+        "choice1": "Hepatite B",
+        "choice2": "Poliomielite",
+        "choice3": "Sarampo",
+        "choice4": "Lordose",
+        "answer": 4
+    },
+    {
+        "question": "Qual destes alimentos é fabricado com o uso de bactérias?",
+        "choice1": "Carne-de-sol",
+        "choice2": "Vinho",
+        "choice3": "Iogurte",
+        "choice4": "Queijo",
+        "answer": 3
+    },
+    {
+        "question": "Assinale a doença que NÃO é causada por bactérias:",
+        "choice1": "Cólera",
+        "choice2": "Meningite",
+        "choice3": "Hanseníase",
+        "choice4": "Gripe",
+        "answer": 4
+    },
+    {
+        "question": "Dmitri Losifovich Ivanovsky foi quem descobriu a existência do vírus.Qual era sua nacionalidade?",
+        "choice1": "Sueco",
+        "choice2": "Americano",
+        "choice3": "Russo",
+        "choice4": "Alemão",
+        "answer": 3
+    },
+    {
+        "question": "A frase: Deve ser apenas uma virose! Entretanto, chamamos de viroses todas as doenças causadas por vírus, que podem variar de uma simples gripe até a AIDS. De acordo com seu conhecimento sobre viroses, marque alternativas em que encontramos apenas doenças causadas por vírus.",
+        "choice1": "Hepatite, raiva e caxumba",
+        "choice2": "Hepatite, dengue e cólera",
+        "choice3": "Raiva, dengue e gonorreia",
+        "choice4": "Dengue, cólera e gonorreia",
+        "answer": 1
+    },
+    {
+        "question": "O HIV é um exemplo de vírus envelopado. Marque a alternativa que explica corretamente essa definição.",
+        "choice1": "São vírus envolvidos por um envelope proteico.",
+        "choice2": "São vírus envolvidos por uma parede celular",
+        "choice3": "São vírus envolvidos por um envelope lipoproteico",
+        "choice4": "São vírus com um envelope quitinoso",
+        "answer": 3
+    },
+    {
+        "question": "(UFRN) Todos os vírus são constituídos por:",
+        "choice1": "DNA e proteínas",
+        "choice2": "Aminoácidos e água",
+        "choice3": "Ácidos nucléicos e proteínas",
+        "choice4": "DNA e RNA",
+        "answer": 3
+    },
+    {
+        "question": "Sabemos que, além do DNA cromossômico, a bactéria possui plasmídeos. Marque a alternativa que indica corretamente o que é um plasmídeo.",
+        "choice1": "Grandes moléculas de DNA ligadas às proteínas histonas",
+        "choice2": "DNA presente no interior do núcleo",
+        "choice3": "DNA encontrado nos cromossomos essencial para a vida da bactéria",
+        "choice4": "Pequenas moléculas de DNA circular",
+        "answer": 4
+    },
+    {
+        "question": "(Fatec-SP) Um organismo unicelular, sem núcleo diferenciado, causador de infecção em ratos, provavelmente será:",
+        "choice1": "uma bactéria",
+        "choice2": "uma alga",
+        "choice3": "um vírus",
+        "choice4": "um protozoário",
+        "answer": 1
+    }
+]

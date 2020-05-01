@@ -1,0 +1,44 @@
+
+.custonT1
+{
+font-family:Arial;
+color:#2ecc71;
+text-shadow:0px 0px 3px black;
+}
+
+.custonT2,.custonP1
+{
+font-family:arial;
+color:#2ecc71;
+font-weight: bold;
+text-shadow:0px 0px 3px black;
+}
+
+
+.letra
+{
+width:40px;
+height:40px;
+margin:3px;
+background:#2c3e50;
+font-size:30px;
+text-align:center;
+font-family:arial;
+}
+
+#tagPalavra
+{
+display:flex;
+}
+
+
+.desabilitado
+{
+opacity:.2;
+}
+
+#tagPalavra
+{
+margin:20px 0;
+
+}

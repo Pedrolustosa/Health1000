@@ -1,0 +1,81 @@
+.choice-container{
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    font-size: 1.8rem;
+    border: 0.1rem solid (#1dd1a1);
+    background-color: #ecf0f1;
+}
+
+.choice-container:hover{
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem #2ecc71;
+    transform: translate(-0.1rem);
+    transition: transform 150ms;
+}
+
+.choice-prefix{
+    padding: 1.5rem 2.5rem;
+    background-color: #ecf0f1;
+    color:#576574;
+}
+
+.choice-text{
+    padding: 1.5rem;
+    width: 100%;
+}
+
+.correct{
+    background-color: #28a745;    
+}
+
+.incorrect{
+    background-color: #dc3545;
+}
+
+/* HUD */
+#hud{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hud-prefix{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.hud-main-text{
+    text-align: center;
+}
+
+#progressBar{
+    width: 20rem;
+    height: 3.8rem;
+    border: 0.3rem solid #000000;
+    margin-top: 1.5rem;
+}
+
+#progressBarFull{
+    height: 3.2rem;
+    background-color: #ecf0f1;
+    width: 0%;
+}
+
+/* loader */
+#loader{
+    border:1.6rem solid #ecf0f1;
+    border-radius: 50%;
+    border-top: 1.6rem solid #2ecc71;
+    width: 12rem;
+    height: 12rem;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
