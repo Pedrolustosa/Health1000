@@ -1,4 +1,4 @@
-:root{
+/*:root{
     background-color: #2ecc71;
     font-size: 62.5%;
 }
@@ -35,11 +35,11 @@ h2{
 h3{
     font-size: 2.8rem;
     font-weight: 500;
-}
+}*/
 
 /* utilities */
 
-.container{
+.container2{
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -50,7 +50,7 @@ h3{
     padding: 2rem;
 }
 
-.container > *{
+.container2 > *{
     width: 100%;
 }
 

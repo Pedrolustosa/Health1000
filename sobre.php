@@ -20,7 +20,7 @@
 <body style="background-color: #ecf0f1;">
 
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2ecc71;">
+        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2ecc71; font-weight: bold;">
             <div class="container">
                 <a class="navbar-brand" href="index.php"><img src="Img/nurseLogo.png" alt="Logo"> Saúde1000</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -57,10 +57,10 @@
 
     <!--Título-->
     <div class="animated slideInRight container p-3">
-        <div class="jumbotron p-2 p-md-5 text-white rounded" style="background-color: #2ecc71;">
+        <div class="jumbotron p-2 p-md-5 text-dark rounded" style="background-color: #2ecc71;">
             <div class="col-md-8 px-10">
-                <h1 class="display-4 font-italic">Uma Historia muito louca</h1>
-                <p class="lead my-3">“A primeira regra de qualquer tecnologia utilizada nos negócios é que a automação aplicada a uma operação eficiente aumentará a eficiência. A segunda é que a automação aplicada a uma operação ineficiente aumentará a ineficiência.”</p>
+                <h1 class="display-4 font-italic" style="font-weight: bold">Uma Historia muito louca</h1>
+                <p class="lead my-3" style="text-align: justify">“A primeira regra de qualquer tecnologia utilizada nos negócios é que a automação aplicada a uma operação eficiente aumentará a eficiência. A segunda é que a automação aplicada a uma operação ineficiente aumentará a ineficiência.”</p>
             </div>
         </div>
     </div>

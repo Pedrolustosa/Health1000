@@ -18,9 +18,9 @@
 <body style="background-color: #ecf0f1;">
 
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2ecc71;">
+        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2ecc71; font-weight: bold;">
             <div class="container">
-                <a class="navbar-brand" href="index.php"><img src="Img/nurseLogo.png" alt="..."> Saúde1000</a>
+                <a class="navbar-brand" href="index.php"><img src="Img/nurseLogo.png" alt="Logo"> Saúde1000</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
