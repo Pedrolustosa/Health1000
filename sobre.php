@@ -76,7 +76,7 @@
 
         <div class="row featurette">
             <div class="col-md-7">
-                <h2 class="featurette-heading" style="font-style:italic">Historia do Site</h2>
+                <h2 class="featurette-heading" style="font-style:italic">Parte I</h2>
                 <p class="lead" style="text-align: justify">
                     A história do web design não é assim tão antiga.
                     O conceito de web design ainda é novo pois não faz muito tempo que o uso da internet se popularizou.
@@ -96,7 +96,7 @@
 
         <div class="row featurette">
             <div class="col-md-7 order-md-2">
-                <h2 class="featurette-heading" style="font-style:italic">Ideia para criação</h2>
+                <h2 class="featurette-heading" style="font-style:italic">Parte II</h2>
                 <p class="lead" style="text-align: justify">
                     Tim Berners-Lee combinou a internet com HTML pela primeira vez.
                     Isto veio a ser aceito como o primeiro site da internet.
@@ -114,7 +114,7 @@
 
         <div class="row featurette">
             <div class="col-md-7">
-                <h2 class="featurette-heading" style="font-style:italic">Como ficou</h2>
+                <h2 class="featurette-heading" style="font-style:italic">Parte III</h2>
                 <p class="lead" style="text-align: justify">
                     Este uso básico da Linguagem de Marcação de Hipertexto, ou HTML
                     (Hypertext Markup Language) tornava a aparência dos sites muito simples e
