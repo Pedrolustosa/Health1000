@@ -240,6 +240,7 @@
                         <a href="https://www.sobiologia.com.br/" class="list-group-item list-group-item-action list-group-item-success">SóBiologia</a>
                         <a href="http://bvsms.saude.gov.br/" class="list-group-item list-group-item-action list-group-item-success">BVSMS</a>
                         <a href="https://saude.abril.com.br/" class="list-group-item list-group-item-action list-group-item-success">Saúde Abril</a>
+                        <a href="https://www.dw.com/pt-br/entenda-a-diferen%C3%A7a-entre-v%C3%ADrus-e-bact%C3%A9rias/a-17615512" class="list-group-item list-group-item-action list-group-item-success">DW</a>
                     </div>
 
                 </div>

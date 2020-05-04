@@ -59,7 +59,7 @@
     <!-- Game -->
     <div class="container">
         <div id="highscores" class="flex-center flex-column">
-            <h1 id="finalScore">Pontuação</h1>
+            <h1 id="finalScore">Ranking</h1>
             <ul id="highScoresList"></ul>
             <a class="btn" href="index.php">Voltar</a>
         </div>

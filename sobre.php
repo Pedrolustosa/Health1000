@@ -77,7 +77,13 @@
         <div class="row featurette">
             <div class="col-md-7">
                 <h2 class="featurette-heading" style="font-style:italic">Historia do Site</h2>
-                <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+                <p class="lead" style="text-align: justify">
+                    A história do web design não é assim tão antiga.
+                    O conceito de web design ainda é novo pois não faz muito tempo que o uso da internet se popularizou.
+                    A ampla utilização da internet no cotidiano das pessoas se iniciou há apenas algumas décadas atrás.
+                    Desde a sua criação o web design passou por uma série de mudanças.
+                    Foi apenas em 1991, que Tim Berners-Lee apresentou ao mundo o primeiro site.
+                </p>
             </div>
             <div class="col-md-5">
                 <div>
@@ -91,7 +97,11 @@
         <div class="row featurette">
             <div class="col-md-7 order-md-2">
                 <h2 class="featurette-heading" style="font-style:italic">Ideia para criação</h2>
-                <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+                <p class="lead" style="text-align: justify">
+                    Tim Berners-Lee combinou a internet com HTML pela primeira vez.
+                    Isto veio a ser aceito como o primeiro site da internet.
+                    Naquela época HTML era usado em uma versão muito básica.
+                </p>
             </div>
             <div class="col-md-5">
                 <div>
@@ -105,7 +115,13 @@
         <div class="row featurette">
             <div class="col-md-7">
                 <h2 class="featurette-heading" style="font-style:italic">Como ficou</h2>
-                <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+                <p class="lead" style="text-align: justify">
+                    Este uso básico da Linguagem de Marcação de Hipertexto, ou HTML
+                    (Hypertext Markup Language) tornava a aparência dos sites muito simples e
+                    com uma estrutura básica composta por apenas alguns títulos e parágrafos.
+                    Algum tempo mais tarde o uso de hiperlinks nos sites permitiu aos usuários navegar
+                    com facilidade de uma página a outra.
+                </p>
             </div>
             <div class="col-md-5">
                 <div>
@@ -150,6 +166,7 @@
                         <a href="https://www.sobiologia.com.br/" class="list-group-item list-group-item-action list-group-item-success">SóBiologia</a>
                         <a href="http://bvsms.saude.gov.br/" class="list-group-item list-group-item-action list-group-item-success">BVSMS</a>
                         <a href="https://saude.abril.com.br/" class="list-group-item list-group-item-action list-group-item-success">Saúde Abril</a>
+                        <a href="https://www.dw.com/pt-br/entenda-a-diferen%C3%A7a-entre-v%C3%ADrus-e-bact%C3%A9rias/a-17615512" class="list-group-item list-group-item-action list-group-item-success">DW</a>
                     </div>
 
                 </div>
