@@ -13,29 +13,29 @@
 
 h1, h2, h3, h4{
     margin-bottom: 1rem;
-}
+}*/
 
 h1{
-    font-size: 5.4rem;
+    font-size: 3.5rem;
     color: #000000;
-    margin-bottom: 5rem;
+    margin-bottom: 4rem;
 }
 
 h1 > span{
-    font-size: 2.4rem;
-    font-weight: 500;
+    font-size: 2.0rem;
+    font-weight: 450;
 }
 
 h2{
-    font-size: 3.0rem;
+    font-size: 2.0rem;
     margin-bottom: 1.5rem;
     font-weight: 250;
 }
 
 h3{
-    font-size: 2.8rem;
-    font-weight: 500;
-}*/
+    font-size: 2.5rem;
+    font-weight: 450;
+}
 
 /* utilities */
 
@@ -83,7 +83,7 @@ h3{
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid #000000;
+    border: 0.3rem solid  #000000;
     margin-bottom: 1rem;
     text-decoration: none;
     color: #000000;
@@ -92,7 +92,8 @@ h3{
 
 .btn:hover{
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 #95a5a6;
+    box-shadow: 0 0.4rem 1.4rem 0 #ecf0f1;
+    background-color: #2ecc71;
     transform: translate(-0.1rem);
     transition: transform 150ms;
 }

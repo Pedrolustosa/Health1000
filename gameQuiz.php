@@ -57,7 +57,7 @@
     <!--Game-->
     <div class="container2">
         <div id="home" class="flex-center flex-column">
-            <h1>Quick Quiz</h1>
+            <h1>Saúde1000 - The Quiz</h1>
             <a class="btn" href="index.php">Menu Inicial</a>
             <a class="btn" href="game.php">Jogar</a>
             <a class="btn" href="highscores.php">Pontuação</a>

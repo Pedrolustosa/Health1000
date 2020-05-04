@@ -1,9 +1,9 @@
 .choice-container{
     display: flex;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.7rem;
     width: 100%;
-    font-size: 1.8rem;
-    border: 0.1rem solid (#1dd1a1);
+    font-size: 1.3rem;
+    border: 0.3rem solid (black);
     background-color: #ecf0f1;
 }
 
@@ -17,7 +17,6 @@
 .choice-prefix{
     padding: 1.5rem 2.5rem;
     background-color: #ecf0f1;
-    color:#576574;
 }
 
 .choice-text{
@@ -56,8 +55,8 @@
 }
 
 #progressBarFull{
-    height: 3.2rem;
-    background-color: #ecf0f1;
+    height: 3.8rem;
+    background-color: #2ecc71;
     width: 0%;
 }
 

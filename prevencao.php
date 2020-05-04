@@ -209,10 +209,12 @@
 
                     <h3>Problemática</h3>
 
-                    <p style="text-align: justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Eveniet cum iusto doloremque voluptatum natus soluta non.
-                        Modi unde nesciunt omnis molestiae amet corporis vero?
-                        Perferendis veniam fugit ex hic repellendus!
+                    <p style="text-align: justify">
+                        Em nossas pesquisar foi observado que, a população têm um déficit
+                        no conhecer sobre as bácterias e vírus.
+                        Com isso, criamos esse site com o intuito de ensinar e informar as pessoas
+                        sobre os fatos citados no ramo da ciência. E para melhorar a plataforma, colocamos um método também de inovador, que
+                        foi colocado games para entreter as crianças e incentivar os estudos, e assim replicar a sapiência aos outros.
                     </p>
 
                 </div>
