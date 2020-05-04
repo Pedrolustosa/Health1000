@@ -5,10 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Health1000 - Academic Project.">
+
+    <!--Icon-->
     <link rel="shortcut icon" href="Img/nurseLogo.png" type="image/x-icon">
     <link rel="icon" href="Img/nurseLogo.png" type="image/x-icon">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+
+    <!--CSS-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
     <title>Home | Saúde1000</title>
@@ -18,7 +22,7 @@
 
 
 <body style="background-color: #ecf0f1;">
-
+    <!--Navbar-->
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2ecc71; font-weight:bold;">
             <div class="container">
@@ -51,6 +55,7 @@
             </div>
         </nav>
     </header>
+    <!--Navbar-->
 
     <!--Carousel-->
     <section class="animated slideInRight container mt-3" style="font-weight: bold;">
@@ -104,7 +109,7 @@
     </section>
     <!--Carousel-->
 
-    <!--Card-->
+    <!--Card's-->
     <section class="animated slideInLeft container mt-3">
         <h3 class="border-bottom p-2 mb-5">Principais Doenças da História</h3>
         <div class="card-deck">
@@ -151,7 +156,7 @@
         </div>
         </div>
     </section>
-    <!--Card-->
+    <!--Card's-->
 
     <!-- Footer -->
     <div class="animated slideInRight container p-3">
@@ -198,6 +203,7 @@
                     <a class="btn btn-outline-primary" href="#"><i class="fab fa-facebook-square"></i> Facebook</a>
                     <a class="btn btn-outline-info" href="#"><i class="fab fa-twitter"></i> Twitter</a>
                     <a class="btn btn-outline-warning" href="#"><i class="fab fa-instagram"></i> Instagram</a>
+                    <a class="btn btn-outline-dark" href="https://github.com/Pedrolustosa/Health1000"><i class="fab fa-github"></i> Github</a>
                 </div>
 
             </div>
@@ -284,7 +290,7 @@
     </div>
     <!-- Modal -->
 
-    <!--Scripts-->
+    <!--Script's-->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>

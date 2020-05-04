@@ -4,11 +4,14 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Health1000 - Academic Project.">
 
+    <!--Icon-->
     <link rel="shortcut icon" href="Img/nurseLogo.png" type="image/x-icon">
     <link rel="icon" href="Img/nurseLogo.png" type="image/x-icon">
+
+    <!--CSS-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/game4tentativas.css">
 
     <title>Jogo 4 Tentativas | Saúde1000</title>
@@ -17,6 +20,7 @@
 
 <body style="background-color: #ecf0f1;">
 
+    <!--NavBar-->
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2ecc71; font-weight: bold;">
             <div class="container">
@@ -55,16 +59,16 @@
     <main>
 
         <br>
-
+        <!--Game-->
         <section class="container">
             <h1 class="custonT1">Jogo da Forca</h1>
             <h2 class="custonT2" id="tagDica"></h2>
 
             <div id="tagPalavra"></div>
 
-            <input type="text" class="form-control" maxlength="1" id="tagAdivinhaLetra" placeholder="Escolha uma LETRA e digite aqui. Boa Sorte!" style="width: 350px" required/>
+            <input type="text" class="form-control" maxlength="1" id="tagAdivinhaLetra" placeholder="Escolha uma LETRA e digite aqui. Boa Sorte!" style="width: 350px" required />
             <br>
-            
+
             <button type="button" class="btn btn-outline-success" id="tagBtVerificaLetra">Enviar Letra</button>
             <button type="button" class="btn btn-outline-success" id="tagBtSorteiaPalavra">Sortear Nova Palavra</button>
             <button type="button" class="btn btn-secondary" style="height: 35px">
@@ -72,11 +76,8 @@
             </button>
             <br>
             <br>
-            
-
-            
         </section>
-
+        <!--Game-->
     </main>
     <!--Main-->
 

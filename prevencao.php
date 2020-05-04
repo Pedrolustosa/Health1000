@@ -4,9 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Health1000 - Academic Project.">
 
+    <!--Icon-->
     <link rel="shortcut icon" href="Img/nurseLogo.png" type="image/x-icon">
     <link rel="icon" href="Img/nurseLogo.png" type="image/x-icon">
+
+    <!--CSS-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
@@ -19,6 +23,7 @@
 
 <body style="background-color: #ecf0f1;">
 
+    <!--NavBar-->
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2ecc71; font-weight: bold;">
             <div class="container">
@@ -51,9 +56,12 @@
             </div>
         </nav>
     </header>
+    <!--NavBar-->
 
     <br>
-    <!--Centro da página-->
+    <!--Para pular uma linha-->
+
+    <!--Main-->
     <main role="main" class="container">
         <div class="row animated slideInRight">
             <div class="col-md-8 blog-main">
@@ -88,7 +96,8 @@
                         Enquanto elas possuem na sua maioria um tamanho de 0,001 milímetro, os vírus chegam
                         a no máximo um centésimo dessa medida.
                     </p>
-                </div><!-- /.blog-post -->
+                </div>
+                <!-- /.blog-post -->
 
                 <div class=" blog-post">
                     <h2 class="blog-post-title">Medicamento e vacinas</h2>
@@ -144,10 +153,10 @@
             <aside class="col-md-4 blog-sidebar">
                 <div class="p-4 mb-3 bg-light rounded">
                     <h4 class="font-italic">Arquivos "Vírus e Bácterias e entre outras..."</h4>
-                    <p class="mb-0">
+                    <p class="mb-0" style="text-align: justify">
                         A OMS classifica doença como a ausência de saúde e disponibiliza para a sociedade a Classificação Estatística Internacional de Doenças e Problemas Relacionados à Saúde, designada pela sigla CID. No CID temos acesso à classificação das doenças e à grande variedade de sinais, sintomas, aspectos normais, queixas, circunstâncias sociais e causas externas para ferimentos e doenças.
                     </p>
-                    <p>
+                    <p style="text-align: justify">
                         Em <em>Arquivos</em> você pode ver alguns dos exemplos citados pela OMS(Organização Mundial da Saúde).
                     </p>
                 </div>
@@ -175,6 +184,7 @@
 
         <h3 class="border-bottom p-2 mb-5 container">Formulário</h3>
 
+        <!--Formulário funcional com JS e com captcha do formspree-->
         <form id="my-form" action="https://formspree.io/xgenwgvp" method="POST">
 
             <label>Email:</label>
@@ -186,14 +196,17 @@
             <br>
 
             <button class="btn btn-success" id="my-form-button">Enviar</button>
+
+            <!--Botão com JS para o popover, código logo abaixo na parte "Script's"-->
             <button onclick="ajuda()" id="popover" type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="top" data-content="Todos os espaços são obrigatório para oreencher, sem isso você não pode enviar a sua mensagem. Obrigado pela compreensão e ajuda. E, os sempre estamos em busca de novos conteúdos.">Ajuda!</button>
             <p id="my-form-status"></p>
         </form>
+        <!--Formulário funcional com JS(form.js) e com captcha do formspree-->
 
     </main>
-    <!--Centro da página-->
+    <!--Main-->
 
-    <!--Rodapé-->
+    <!--footer-->
     <footer>
         <div class="animated slideInRight container p-3">
 
@@ -239,6 +252,7 @@
                         <a class="btn btn-outline-primary" href="#"><i class="fab fa-facebook-square"></i> Facebook</a>
                         <a class="btn btn-outline-info" href="#"><i class="fab fa-twitter"></i> Twitter</a>
                         <a class="btn btn-outline-warning" href="#"><i class="fab fa-instagram"></i> Instagram</a>
+                        <a class="btn btn-outline-dark" href="https://github.com/Pedrolustosa/Health1000"><i class="fab fa-github"></i> Github</a>
                     </div>
 
                 </div>
@@ -258,16 +272,18 @@
 
         </div>
     </footer>
-    <!--Rodapé-->
+    <!--footer-->
 
-    <!--Scripts-->
 
+    <!--Script para o botão popover"Ajuda!"-->
     <script type="text/javascript">
         function ajuda() {
             $('#popover').popover('show');
         }
     </script>
+    <!--Script para o botão popover"Ajuda!"-->
 
+    <!--Script's-->
     <script src="js/form.js"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

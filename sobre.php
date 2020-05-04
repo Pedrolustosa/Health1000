@@ -4,14 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Health1000 - Academic Project.">
 
-
+    <!--Icon-->
     <link rel="shortcut icon" href="Img/nurseLogo.png" type="image/x-icon">
     <link rel="icon" href="Img/nurseLogo.png" type="image/x-icon">
+
+    <!--CSS-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     <link rel="stylesheet" href="css/sobre.css">
-
-
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
     <title>Sobre | Saúde1000</title>
@@ -20,6 +21,7 @@
 
 <body style="background-color: #ecf0f1;">
 
+    <!--NavBar-->
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2ecc71; font-weight: bold;">
             <div class="container">
@@ -54,7 +56,7 @@
     </header>
     <!--Navbar-->
 
-    <!--main abaixo-->
+    <!--Main abaixo-->
 
     <!--Título-->
     <div class="animated slideInRight container p-3">
@@ -111,9 +113,6 @@
                 </div>
             </div>
         </div>
-
-
-        </>
         <!--Textos História-->
 
         <!--main acima-->
@@ -163,6 +162,7 @@
                         <a class="btn btn-outline-primary" href="#"><i class="fab fa-facebook-square"></i> Facebook</a>
                         <a class="btn btn-outline-info" href="#"><i class="fab fa-twitter"></i> Twitter</a>
                         <a class="btn btn-outline-warning" href="#"><i class="fab fa-instagram"></i> Instagram</a>
+                        <a class="btn btn-outline-dark" href="https://github.com/Pedrolustosa/Health1000"><i class="fab fa-github"></i> Github</a>
                     </div>
 
                 </div>
@@ -182,8 +182,6 @@
 
         </div>
         <!-- Footer -->
-
-
 
         <!--Script's-->
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

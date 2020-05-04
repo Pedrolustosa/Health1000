@@ -15,6 +15,10 @@ var tagBtVerificaLetra = document.querySelector("#tagBtVerificaLetra");
 
 var palavras = [
     ["corona","É um vírus -"],
+    ["bacteriófago","Nome do vírus que ataca exclusivamente bactérias -"],
+    ["adenovírus e retrovírus","São denominados os vírus responsáveis por muitos resfriados comuns e pelo HIV -"],
+    ["sexuada","É chamada a forma de reprodução das bactérias quando elas trocam o material genético -"],
+    ["decompositoras","As bactérias que decompõem resto de seres vivos são -"],
     ];
 
 var linhaSorteada;
