@@ -4,13 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name=”description” content="
-    Em nossas pesquisar foi observado que, a população têm um déficit
-    no conhecer sobre as bácterias e vírus.
-    Com isso, criamos esse site com o intuito de ensinar e informar as pessoas
-    sobre os fatos citados no ramo da ciência. E para melhorar a plataforma, colocamos um método também de inovador, que
-    foi colocado games para entreter as crianças e incentivar os estudos, e assim replicar a sapiência aos outros.
-    " />
+    <meta name="description" content="Health1000 - Academic Project.">
     <link rel="shortcut icon" href="Img/nurseLogo.png" type="image/x-icon">
     <link rel="icon" href="Img/nurseLogo.png" type="image/x-icon">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
