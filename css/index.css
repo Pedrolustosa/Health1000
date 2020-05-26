@@ -1,18 +1,3 @@
-#highScoresList{
-    list-style: none;
-    padding-left: 0;
-    margin-bottom: 4rem;
-}
-
-.high-score{
-    font-size: 2.8rem;
-    margin-bottom: 0.5rem;
-}
-
-.high-score:hover{
-    transform: scale(1.025);
-}
-
 /* This is a compiled file, you should be editing the file in the templates directory */
 .pace {
   -webkit-pointer-events: none;
