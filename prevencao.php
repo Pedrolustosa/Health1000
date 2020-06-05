@@ -188,7 +188,7 @@
         <h3 class="border-bottom p-2 mb-5 container">Formulário</h3>
 
         <!--Formulário funcional com JS e com captcha do formspree-->
-        <form class="my-form" action="https://formspree.io/mrgyqodv" method="POST">
+        <form class="my-form" action="https://formspree.io/pedroeternalss2@gmail.com" method="POST">
             <label>
                 <label>Email:</label>
                 <input type="email" class="form-control" name="email" style="width: 1150px" required />

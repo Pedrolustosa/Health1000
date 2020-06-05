@@ -11,11 +11,11 @@ window.addEventListener("DOMContentLoaded", function() {
     function success() {
         form.reset();
         button.style = "display: none ";
-        status.innerHTML = "Thanks!";
+        status.innerHTML = "Obrigado!";
     }
 
     function error() {
-        status.innerHTML = "Oops! There was a problem.";
+        status.innerHTML = "Oops! Encontramos um erro, você deve ter esquecido algo.";
     }
 
     // handle the form submission event
