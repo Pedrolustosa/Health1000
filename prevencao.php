@@ -24,7 +24,7 @@
 
 <body style="background-color: #ecf0f1;">
 
-<header>
+    <header>
         <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2ecc71; font-weight:bold;">
             <div class="container">
                 <a class="navbar-brand" href="index.php"><img src="Img/nurseLogo.png" alt="Logo"> Saúde1000</a>
@@ -188,23 +188,22 @@
         <h3 class="border-bottom p-2 mb-5 container">Formulário</h3>
 
         <!--Formulário funcional com JS e com captcha do formspree-->
-        <form id="my-form" action="https://formspree.io/xgenwgvp" method="POST">
+        <form action="https://formspree.io/mrgyqodv" method="POST">
+            <label>
+                <label>Email:</label>
+                <input type="email" class="form-control" name="email" style="width: 1150px" required />
 
-            <label>Email:</label>
-            <input type="email" class="form-control" name="email" style="width: 1150px" required />
+                <label>Message:</label>
+                <input type="text" class="form-control" name="message" style="width: 1150px" required />
 
-            <label>Message:</label>
-            <input type="text" class="form-control" name="message" style="width: 1150px" required />
+                <br>
 
-            <br>
+                <button class="btn btn-success" id="my-form-button">Enviar</button>
 
-            <button class="btn btn-success" id="my-form-button">Enviar</button>
-
-            <!--Botão com JS para o popover, código logo abaixo na parte "Script's"-->
-            <button onclick="ajuda()" id="popover" type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="top" data-content="Todos os espaços são obrigatório para oreencher, sem isso você não pode enviar a sua mensagem. Obrigado pela compreensão e ajuda. E, os sempre estamos em busca de novos conteúdos.">Ajuda!</button>
-            <p id="my-form-status"></p>
+                <!--Botão com JS para o popover, código logo abaixo na parte "Script's"-->
+                <button onclick="ajuda()" id="popover" type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="top" data-content="Todos os espaços são obrigatório para oreencher, sem isso você não pode enviar a sua mensagem. Obrigado pela compreensão e ajuda. E, os sempre estamos em busca de novos conteúdos.">Ajuda!</button>
+                <p id="my-form-status"></p>
         </form>
-        <!--Formulário funcional com JS(form.js) e com captcha do formspree-->
 
     </main>
     <!--Main-->
