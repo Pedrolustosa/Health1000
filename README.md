@@ -9,7 +9,7 @@ https://health1000.herokuapp.com/
 PT-BR
 O intuito da criação do site foi para ensinar a sociedade sobre os Vírus e Báctérias existentes, e também sobre as doenças que fazem 
 parte da história da vida humana. Contudo, a finalida é essa, de ensinar um pouco sobre como se previnir delas o que eles podem causar
-a nós se não formor agéis e ter uma boa educação na Saúde.
+a nós se não formos agéis e ter uma boa educação na Saúde.
 
 EN
 The purpose of creating the site was to teach society about existing Viruses and Bacteria, and also about the diseases they cause
