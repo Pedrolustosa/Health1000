@@ -1,11 +1,5 @@
 #Health1000
 
-Link for site
-https://health1000.herokuapp.com/
-
-Link para o Site
-https://health1000.herokuapp.com/
-
 PT-BR
 O intuito da criação do site foi para ensinar a sociedade sobre os Vírus e Báctérias existentes, e também sobre as doenças que fazem 
 parte da história da vida humana. Contudo, a finalida é essa, de ensinar um pouco sobre como se previnir delas o que eles podem causar
