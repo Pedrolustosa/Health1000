@@ -67,7 +67,7 @@
         <br>
         <!--Game-->
         <section class="container">
-            <h1 class="custonT1">Jogo da Forca</h1>
+            <h1 class="custonT1">Jogo das 4 Tentativas</h1>
             <h2 class="custonT2" id="tagDica"></h2>
 
             <div id="tagPalavra"></div>
